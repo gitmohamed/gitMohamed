@@ -7,7 +7,7 @@ Web Developer, Software Engineer
 * 🌍  I'm based in Los Angeles, CA
 * ✉️  You can contact me at [mohamedhdesign@gmail.com](mailto:mohamedhdesign@gmail.com)
 * 🧠  I'm learning TypeScript, JavaScript Frameworks
-* 🤝  I'm open to collaborating on Open Source Web
+* 🤝  I'm open to collaborating on Open Source Web-based Projects
 
 ### Skills
 
